@@ -6,7 +6,4 @@ Git repository for beginning of Github Club
 
 But where is everybody else?!?
 
-
-## joe's changes are best
-
-as you can see.
+Git is great they don't know what they're missing.
