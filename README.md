@@ -7,3 +7,5 @@ Git repository for beginning of Github Club
 But where is everybody else?!?
 
 Git is great they don't know what they're missing.
+
+Computers are confusing
